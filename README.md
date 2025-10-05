@@ -1,8 +1,7 @@
-# Vanilla-js-Scratch-Ticket
-Interactive scratch-off ticket component built with HTML5 Canvas. Scratch away the silver coating with your mouse or finger to reveal what's underneath.  Works smoothly on touch devices (iPhone, Android) Pure vanilla JavaScript - No dependencies required Responsive design
+# Vanilla-js-Scratch-Card
 
-Interactive Scratch Ticket
-A fun, interactive scratch-off ticket component built with HTML5 Canvas. Scratch away the silver coating with your mouse or finger to reveal what's underneath!
+Interactive Scratch Ticket / Scratch Card
+A fun, interactive scratch card component built with HTML5 Canvas. Scratch away the silver coating with your mouse or finger to reveal what's underneath!
 
 ✨ Features
 Realistic scratch effect - Only erases the parts you touch
